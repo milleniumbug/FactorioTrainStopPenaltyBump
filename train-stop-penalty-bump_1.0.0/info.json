@@ -1,0 +1,11 @@
+{
+    "name": "train-stop-penalty-bump",
+    "version": "1.0.0",
+    "title": "Train Stop Penalty Bump",
+    "author": "milleniumbug",
+    "contact": "milleniumbug@protonmail.com",
+    "homepage": "https://github.com/milleniumbug/FactorioTrainStopPenaltyBump",
+    "factorio_version": "0.16",
+    "dependencies": ["base >= 0.16"],
+    "description": "This mod re-adds the bug 54042."
+}
